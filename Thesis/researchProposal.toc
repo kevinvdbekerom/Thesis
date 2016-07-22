@@ -1,0 +1,30 @@
+\contentsline {chapter}{\numberline {1}Research Proposal}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}Project summary}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Problem analysis}{3}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Tool support for finding (test) bugs}{3}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Detecting test bugs}{3}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}(Test) Code smells}{4}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Testing in general}{4}{subsection.1.2.4}
+\contentsline {section}{\numberline {1.3}Research method}{4}{section.1.3}
+\contentsline {section}{\numberline {1.4}Expected results of the project}{6}{section.1.4}
+\contentsline {section}{\numberline {1.5}Required expertise for this project}{6}{section.1.5}
+\contentsline {section}{\numberline {1.6}Timeline}{7}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Phase 1}{7}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {1.6.2}Phase 2}{7}{subsection.1.6.2}
+\contentsline {section}{\numberline {1.7}Risks}{7}{section.1.7}
+\contentsline {chapter}{\numberline {2}Literature Study}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}An Empirical Study of Bugs in Test Code}{9}{section.2.1}
+\contentsline {section}{\numberline {2.2}Test Code Quality and Its Relation to Issue Handling Performance}{9}{section.2.2}
+\contentsline {section}{\numberline {2.3}Mining Software Repositories to Study Co-evolution of Production and Test Code}{10}{section.2.3}
+\contentsline {section}{\numberline {2.4}Automated Detection of Test Fixture Strategies and Smells}{10}{section.2.4}
+\contentsline {section}{\numberline {2.5}Is This a Bug or an Obsolete Test?}{11}{section.2.5}
+\contentsline {section}{\numberline {2.6}A Bayesian Approach for the Detection of Code and Design Smells}{12}{section.2.6}
+\contentsline {section}{\numberline {2.7}Concept-Based Failure Clustering}{12}{section.2.7}
+\contentsline {section}{\numberline {2.8}Empirically Detecting False Test Alarms Using Association Rules}{12}{section.2.8}
+\contentsline {section}{\numberline {2.9}Detection Strategies: Metrics-Based Rules for Detecting Design Flaws}{13}{section.2.9}
+\contentsline {section}{\numberline {2.10}An Empirical Analysis of Flaky Tests}{13}{section.2.10}
+\contentsline {section}{\numberline {2.11}Are Test Smells Really Harmful? An Empirical Study}{13}{section.2.11}
+\contentsline {section}{\numberline {2.12}Finding Bugs is Easy}{14}{section.2.12}
+\contentsline {section}{\numberline {2.13}Experiences Using Static Analysis to Find Bugs}{14}{section.2.13}
+\contentsline {section}{\numberline {2.14}A Comparison of Bug Finding Tools for Java}{15}{section.2.14}
+\contentsline {chapter}{Bibliography}{16}{chapter*.2}

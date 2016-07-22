@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+The style file: abbrv.bst
+Database file #1: researchProposal.bib
+Warning--to sort, need author or key in data
+You've used 23 entries,
+            2118 wiz_defined-function locations,
+            625 strings with 8186 characters,
+and the built_in function-call counts, 9951 in all, are:
+= -- 1023
+> -- 450
+< -- 14
++ -- 185
+- -- 154
+* -- 660
+:= -- 1512
+add.period$ -- 82
+call.type$ -- 23
+change.case$ -- 143
+chr.to.int$ -- 0
+cite$ -- 24
+duplicate$ -- 415
+empty$ -- 787
+format.name$ -- 154
+if$ -- 2211
+int.to.chr$ -- 0
+int.to.str$ -- 23
+missing$ -- 24
+newline$ -- 116
+num.names$ -- 44
+pop$ -- 197
+preamble$ -- 1
+purify$ -- 123
+quote$ -- 0
+skip$ -- 302
+stack$ -- 0
+substring$ -- 646
+swap$ -- 155
+text.length$ -- 14
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 88
+warning$ -- 1
+while$ -- 94
+width$ -- 25
+write$ -- 261
+(There was 1 warning)

@@ -1,0 +1,84 @@
+\contentsline {chapter}{\numberline {1}Introduction}{4}{chapter.1}
+\contentsline {section}{\numberline {1.1}Initial study}{4}{section.1.1}
+\contentsline {section}{\numberline {1.2}Problem statement}{5}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Research questions}{5}{subsection.1.2.1}
+\contentsline {subsubsection}{TB detection by SSCATs}{5}{section*.4}
+\contentsline {subsubsection}{Improve TB detection by measuring Test Smells}{5}{section*.5}
+\contentsline {subsection}{\numberline {1.2.2}Solution outline}{5}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Research method}{6}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.3}Contributions}{6}{section.1.3}
+\contentsline {section}{\numberline {1.4}Related work}{6}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Detecting TBs}{6}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Production and Test Code evolution}{7}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}(Test) Code Smells}{7}{subsection.1.4.3}
+\contentsline {section}{\numberline {1.5}Outline}{9}{section.1.5}
+\contentsline {chapter}{\numberline {2}To what extent can static source code analysis tools detect test bugs?}{10}{chapter.2}
+\contentsline {section}{\numberline {2.1}Background}{10}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Semantic Test Bugs}{10}{subsection.2.1.1}
+\contentsline {subsubsection}{Assertion Fault}{10}{section*.7}
+\contentsline {subsubsection}{Wrong control flow}{11}{section*.8}
+\contentsline {subsubsection}{Incorrect Variable}{11}{section*.9}
+\contentsline {subsubsection}{Deviation from test requirements and missing cases}{11}{section*.10}
+\contentsline {subsubsection}{Exception Handling}{11}{section*.11}
+\contentsline {subsubsection}{Configuration}{11}{section*.12}
+\contentsline {subsubsection}{Test statement fault or missing statement}{11}{section*.13}
+\contentsline {subsection}{\numberline {2.1.2}Flaky Test Bugs}{12}{subsection.2.1.2}
+\contentsline {subsubsection}{Async wait}{12}{section*.14}
+\contentsline {subsubsection}{Concurrency}{12}{section*.15}
+\contentsline {subsubsection}{Test order dependency}{13}{section*.16}
+\contentsline {subsection}{\numberline {2.1.3}Environmental Test Bugs}{13}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Resource Test Bugs}{13}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Obsolete Test Bugs}{14}{subsection.2.1.5}
+\contentsline {section}{\numberline {2.2}Experiment Design}{15}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Data set}{15}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}SSCAT selection and rule selection}{15}{subsection.2.2.2}
+\contentsline {subsubsection}{SonarQube background}{15}{section*.18}
+\contentsline {subsubsection}{SonarQube vs Infer and FindBugs}{15}{section*.19}
+\contentsline {subsubsection}{Rule selection}{16}{section*.21}
+\contentsline {subsection}{\numberline {2.2.3}Analysis}{16}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}Results}{17}{section.2.3}
+\contentsline {section}{\numberline {2.4}Discussion}{19}{section.2.4}
+\contentsline {section}{\numberline {2.5}Conclusion}{21}{section.2.5}
+\contentsline {chapter}{\numberline {3}Detecting Test Smells using Static Source Code Analysis}{23}{chapter.3}
+\contentsline {section}{\numberline {3.1}Background}{23}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Formalization framework for the definition of coupling measures in object-oriented systems}{24}{subsection.3.1.1}
+\contentsline {subsubsection}{Class}{24}{section*.36}
+\contentsline {subsubsection}{Method}{24}{section*.37}
+\contentsline {subsubsection}{Method Invocation}{24}{section*.38}
+\contentsline {subsubsection}{Example}{25}{section*.40}
+\contentsline {subsection}{\numberline {3.1.2}Extending the coupling-formalization framework for test smells}{27}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Test Smells}{29}{subsection.3.1.3}
+\contentsline {section}{\numberline {3.2}Tool architecture}{29}{section.3.2}
+\contentsline {section}{\numberline {3.3}Tool implementation}{29}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Obtain Test Code, Test Cases and Unit Tests}{29}{subsection.3.3.1}
+\contentsline {subsubsection}{Custom Verification Method-Linking problem}{30}{section*.47}
+\contentsline {subsection}{\numberline {3.3.2}SAT call resolving for Java}{30}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Solving the Custom Verification Method-Linking problem}{31}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Eager Test}{31}{subsection.3.3.4}
+\contentsline {subsubsection}{Formal definition}{31}{section*.49}
+\contentsline {subsubsection}{Ranking}{32}{section*.50}
+\contentsline {subsubsection}{Example}{32}{section*.51}
+\contentsline {subsection}{\numberline {3.3.5}Lazy Test}{32}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Sensitive Equality}{33}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.3.7}Assertion Roulette}{33}{subsection.3.3.7}
+\contentsline {subsection}{\numberline {3.3.8}Conditional Test Logic}{34}{subsection.3.3.8}
+\contentsline {chapter}{\numberline {4}Are Test Smells an Indication of Test Bugs?}{36}{chapter.4}
+\contentsline {section}{\numberline {4.1}Measuring the relation between Test Smells and Test Bugs}{36}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Compare }{37}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}Results}{37}{section.4.2}
+\contentsline {section}{\numberline {4.3}Discussion}{37}{section.4.3}
+\contentsline {section}{\numberline {4.4}Conclusion}{37}{section.4.4}
+\contentsline {chapter}{\numberline {5}Discussion}{38}{chapter.5}
+\contentsline {chapter}{\numberline {6}Conclusion}{39}{chapter.6}
+\contentsline {chapter}{\numberline {7}Literature Study}{40}{chapter.7}
+\contentsline {section}{\numberline {7.1}Test Code Quality and Its Relation to Issue Handling Performance}{40}{section.7.1}
+\contentsline {section}{\numberline {7.2}Concept-Based Failure Clustering}{41}{section.7.2}
+\contentsline {section}{\numberline {7.3}Empirically Detecting False Test Alarms Using Association Rules}{41}{section.7.3}
+\contentsline {section}{\numberline {7.4}An Empirical Analysis of Flaky Tests}{41}{section.7.4}
+\contentsline {section}{\numberline {7.5}Finding Bugs is Easy}{42}{section.7.5}
+\contentsline {section}{\numberline {7.6}Experiences Using Static Analysis to Find Bugs}{42}{section.7.6}
+\contentsline {section}{\numberline {7.7}A Comparison of Bug Finding Tools for Java}{42}{section.7.7}
+\contentsline {chapter}{Bibliography}{44}{chapter*.60}
+\contentsline {chapter}{\numberline {A}Automation algorithm}{46}{appendix.A}
+\contentsline {chapter}{\numberline {B}Test Smell Tool implementation}{47}{appendix.B}
+\contentsline {section}{\numberline {B.1}Determine the number of function parameters}{47}{section.B.1}

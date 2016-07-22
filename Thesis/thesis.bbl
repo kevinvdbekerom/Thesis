@@ -1,0 +1,137 @@
+\begin{thebibliography}{10}
+
+\bibitem{data}
+dataset: \url{http://ece.ubc.ca/~arashvhb/testbugs-study/}.
+
+\bibitem{athanasiou2014test}
+D.~Athanasiou, A.~Nugroho, J.~Visser, and A.~Zaidman.
+\newblock Test code quality and its relation to issue handling performance.
+\newblock {\em Software Engineering, IEEE Transactions on}, 40(11):1100--1125,
+  2014.
+
+\bibitem{ayewah2008using}
+N.~Ayewah, D.~Hovemeyer, J.~D. Morgenthaler, J.~Penix, and W.~Pugh.
+\newblock Using static analysis to find bugs.
+\newblock {\em Software, IEEE}, 25(5):22--29, 2008.
+
+\bibitem{bavota2012empirical}
+G.~Bavota, A.~Qusef, R.~Oliveto, A.~De~Lucia, and D.~Binkley.
+\newblock An empirical analysis of the distribution of unit test smells and
+  their impact on software maintenance.
+\newblock In {\em Software Maintenance (ICSM), 2012 28th IEEE International
+  Conference on}, pages 56--65. IEEE, 2012.
+
+\bibitem{briand1999unified}
+L.~C. Briand, J.~W. Daly, and J.~K. Wust.
+\newblock A unified framework for coupling measurement in object-oriented
+  systems.
+\newblock {\em IEEE Transactions on software Engineering}, 25(1):91--121, 1999.
+
+\bibitem{digiuseppe2012concept}
+N.~DiGiuseppe and J.~A. Jones.
+\newblock Concept-based failure clustering.
+\newblock In {\em Proceedings of the ACM SIGSOFT 20th international symposium
+  on the foundations of software engineering}, page~29. ACM, 2012.
+
+\bibitem{greiler2013automated}
+M.~Greiler, A.~van Deursen, and M.-A. Storey.
+\newblock Automated detection of test fixture strategies and smells.
+\newblock In {\em Software Testing, Verification and Validation (ICST), 2013
+  IEEE Sixth International Conference on}, pages 322--331. IEEE, 2013.
+
+\bibitem{hao2013bug}
+D.~Hao, T.~Lan, H.~Zhang, C.~Guo, and L.~Zhang.
+\newblock Is this a bug or an obsolete test?
+\newblock In {\em ECOOP 2013--Object-Oriented Programming}, pages 602--628.
+  Springer, 2013.
+
+\bibitem{heitlager2007practical}
+I.~Heitlager, T.~Kuipers, and J.~Visser.
+\newblock A practical model for measuring maintainability.
+\newblock In {\em Quality of Information and Communications Technology, 2007.
+  QUATIC 2007. 6th International Conference on the}, pages 30--39. IEEE, 2007.
+
+\bibitem{herzig2015empirically}
+K.~Herzig and N.~Nagappan.
+\newblock Empirically detecting false test alarms using association rules.
+\newblock In {\em Companion Proceedings of the 37th International Conference on
+  Software Engineering}. IEEE, 2015.
+
+\bibitem{hovemeyer2004finding}
+D.~Hovemeyer and W.~Pugh.
+\newblock Finding bugs is easy.
+\newblock {\em ACM Sigplan Notices}, 39(12):92--106, 2004.
+
+\bibitem{khomh2009bayesian}
+F.~Khomh, S.~Vaucher, Y.-G. Gu{\'e}h{\'e}neuc, and H.~Sahraoui.
+\newblock A bayesian approach for the detection of code and design smells.
+\newblock In {\em Quality Software, 2009. QSIC'09. 9th International Conference
+  on}, pages 305--314. IEEE, 2009.
+
+\bibitem{2014empirical}
+Q.~Luo, F.~Hariri, L.~Eloussi, and D.~Marinov.
+\newblock An empirical analysis of flaky tests.
+\newblock In {\em Proceedings of the 22nd ACM SIGSOFT International Symposium
+  on Foundations of Software Engineering}, pages 643--653. ACM, 2014.
+
+\bibitem{luo2014empirical}
+Q.~Luo, F.~Hariri, L.~Eloussi, and D.~Marinov.
+\newblock An empirical analysis of flaky tests.
+\newblock In {\em Proceedings of the 22nd ACM SIGSOFT International Symposium
+  on Foundations of Software Engineering}, pages 643--653. ACM, 2014.
+
+\bibitem{marinescu2004detection}
+R.~Marinescu.
+\newblock Detection strategies: Metrics-based rules for detecting design flaws.
+\newblock In {\em Software Maintenance, 2004. Proceedings. 20th IEEE
+  International Conference on}, pages 350--359. IEEE, 2004.
+
+\bibitem{meszaros2007xunit}
+G.~Meszaros.
+\newblock {\em xUnit test patterns: Refactoring test code}.
+\newblock Pearson Education, 2007.
+
+\bibitem{moha2010domain}
+N.~Moha, Y.-G. Gu{\'e}h{\'e}neuc, A.-F. Le~Meur, L.~Duchien, and A.~Tiberghien.
+\newblock From a domain analysis to the specification and detection of code and
+  design smells.
+\newblock {\em Formal Aspects of Computing}, 22(3-4):345--361, 2010.
+
+\bibitem{rutar2004comparison}
+N.~Rutar, C.~B. Almazan, and J.~S. Foster.
+\newblock A comparison of bug finding tools for java.
+\newblock In {\em Software Reliability Engineering, 2004. ISSRE 2004. 15th
+  International Symposium on}, pages 245--256. IEEE, 2004.
+
+\bibitem{vahabzadeh2015empirical}
+A.~Vahabzadeh, A.~M. Fard, and A.~Mesbah.
+\newblock An empirical study of bugs in test code.
+\newblock In {\em Software Maintenance and Evolution (ICSME), 2015 IEEE
+  International Conference on}, pages 101--110. IEEE, 2015.
+
+\bibitem{van2001refactoring}
+A.~van Deursen, L.~Moonen, A.~van~den Bergh, and G.~Kok.
+\newblock {\em Refactoring test code}.
+\newblock CWI, 2001.
+
+\bibitem{van2006characterizing}
+B.~Van~Rompaey, B.~Du~Bois, and S.~Demeyer.
+\newblock Characterizing the relative significance of a test smell.
+\newblock In {\em 2006 22nd IEEE International Conference on Software
+  Maintenance}, pages 391--400. IEEE, 2006.
+
+\bibitem{zaidman2008mining}
+A.~Zaidman, B.~Van~Rompaey, S.~Demeyer, and A.~Van~Deursen.
+\newblock Mining software repositories to study co-evolution of production \&
+  test code.
+\newblock In {\em Software Testing, Verification, and Validation, 2008 1st
+  International Conference on}, pages 220--229. IEEE, 2008.
+
+\bibitem{zhang2014empirically}
+S.~Zhang, D.~Jalali, J.~Wuttke, K.~Mu{\c{s}}lu, W.~Lam, M.~D. Ernst, and
+  D.~Notkin.
+\newblock Empirically revisiting the test independence assumption.
+\newblock In {\em Proceedings of the 2014 International Symposium on Software
+  Testing and Analysis}, pages 385--396. ACM, 2014.
+
+\end{thebibliography}
